@@ -2,7 +2,7 @@
     <?php include "boxleft.php"; ?>
     <div class="admin-content-right">
         <div class="admin-content-right-product_add">
-            <h1>Thêm Loại Sản Phẩm</h1>
+            <h1>Thêm Sản Phẩm</h1>
             <form action="index.php?action=themloaisanpham" method="POST" enctype="multipart/form-data">
                 <select name="iddanhmuc" id="" required>
                     <option value="" disabled selected >--Chọn Danh Mục</option>

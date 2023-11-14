@@ -4,7 +4,7 @@
 
         <div class="admin-content-right">
             <div class="admin-content-right-product_list">
-                <h1>Danh sách sản phẩm</h1>
+                <h1>Danh sách sản phẩm biến thể</h1>
                 <table>
                     <tr>
                         <th>STT</th>

@@ -2,7 +2,7 @@
     <?php include "boxleft.php"; ?>
     <div class="admin-content-right">
         <div class="admin-content-right-cartegory_list">
-            <h1>Danh sách loại sản phẩm</h1>
+            <h1>Danh sách sản phẩm</h1>
             <table>
                 <tr>
                     <th>ID Loại Sản Phẩm</th>
@@ -23,7 +23,7 @@
                     <td>' . $tenloaisanpham . '</td>
                     <td>' . $anhloaisanpham . '</td>
                     <td>' . $giatiengoc . 'đ</td>
-                    <td>'.$giakhuyenmai.'đ</td>
+                    <td>' . $giakhuyenmai . 'đ</td>
                     <td>' . $motasanpham . '</td>
                     <td>' . $tendanhmuc . '</td>
                     <td><a href="">Sửa</a> | <a href="">Xóa</a></td>

@@ -4,7 +4,7 @@
 
         <div class="admin-content-right">
             <div class="admin-content-right-product_add">
-                <h1>Thêm Sản Phẩm</h1>
+                <h1>Thêm Sản Phẩm biến thể</h1>
                 <form action="" method="post">
                     <label for="">Nhập tên sản phẩm <span style="color: red;">*</span></label>
                     <input type="text" placeholder="Nhập thêm sản phẩm">
